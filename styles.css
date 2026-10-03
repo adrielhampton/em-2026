@@ -112,7 +112,7 @@ section{padding:4rem 0}
 .backers h2{margin-bottom:1.4rem}
 .endorsed-label{font-weight:700;font-size:1.05rem;letter-spacing:.01em;margin:0 0 1rem;opacity:1}
 
-footer{background:var(--ink);color:#d9e2de;padding:2.2rem 0;font-size:.9rem;line-height:1.5}
+footer{background:var(--ink);color:#d9e2de;padding:2.2rem 0;font-size:1rem;line-height:1.5}
 footer .disclosure{border:1.5px solid #d9e2de;padding:1rem 1.1rem;max-width:80ch;border-radius:4px}
 footer p{margin:0 0 .5rem}
 footer .disclosure p:last-child{margin:0}
