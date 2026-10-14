@@ -120,6 +120,8 @@ footer{background:var(--ink);color:#d9e2de;padding:2.2rem 0;font-size:1rem;line-
 footer .disclosure{border:1.5px solid #d9e2de;padding:1rem 1.1rem;max-width:80ch;border-radius:4px}
 footer p{margin:0 0 .5rem}
 footer .disclosure p:last-child{margin:0}
+footer .legal{margin:1rem 0 0;font-size:.9rem}
+footer .legal a{color:#d9e2de}
 
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 html{scroll-behavior:smooth}
