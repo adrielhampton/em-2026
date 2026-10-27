@@ -136,3 +136,15 @@ footer .legal a{color:#d9e2de}
 .choice .record-link a{color:var(--oxblood)}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 html{scroll-behavior:smooth}
+
+/* ---------- residency section (Oct 27) ---------- */
+.residency .kicker{font-family:var(--display);text-transform:uppercase;font-size:clamp(1.5rem,5vw,2.1rem);line-height:1.02;margin:.2rem 0 1rem}
+.residency .kicker span{color:var(--marigold)}
+.residency .video{margin:0 0 1.2rem;max-width:380px}
+.residency video{display:block;width:100%;height:auto;aspect-ratio:4/5;background:var(--ink);border-radius:4px}
+.residency figcaption{font-size:.85rem;color:#4a5652;margin-top:.4rem}
+.residency ul{margin:0 0 1rem;padding-left:1.15rem}
+.residency li{margin-bottom:.4rem}
+.transcript{border-top:1.5px solid rgba(20,33,29,.18);padding-top:.7rem;margin:.4rem 0 .2rem}
+.transcript summary{cursor:pointer;font-weight:700}
+.transcript p{font-size:.95rem;margin:.6rem 0 0}
